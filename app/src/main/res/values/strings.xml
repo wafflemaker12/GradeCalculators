@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email completions.</string>
+    <string name="account_info">Enter your Aeries Parent Portal account information.</string>
+    <string name="edit_message">"Type Here"</string>
+    <string name="initial_login_message">"Enter the exact URL for the aeries parent portal for your school district. Don't worry, you should only have to do this once."</string>
+    <string name="button_send">"Click here"</string>
+    <string name="aeries_string">"If you have an Aeries Parent Portal account"</string>
+    <string name="not_aeries_string">"If you do not have an Aeries Parent Portal account"</string>
+    <string name="blank_string">""</string>
+</resources>
